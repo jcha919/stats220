@@ -3,11 +3,11 @@
 This repo was created as a display for all my current and future Stats220 projects!
 
 ## Projects
-1. [Image Creation](https://github.com/jcha919/stats220/blob/main/index.html)
-2. *Project 2*
-3. *Project 3*
-4. **Project 4**
-5. **Project 5**
+1. [Creating HTML using modern technologies](https://github.com/jcha919/stats220/blob/main/index.html)
+2. *Creating dynamic reporting systems*
+3. *Creating new variables and data tables*
+4. **Creating static and dynamic visualisations**
+5. **Creating data from digital sources**
 
 ## Goals
 - Learn valuable skills for the future
