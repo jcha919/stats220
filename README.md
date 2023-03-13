@@ -1,5 +1,9 @@
 # Stats220
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, )
+```
+
 ## Purpose
 
 This repo was created as a display for all my current and future Stats220 projects!
@@ -11,6 +15,4 @@ This repo was created as a display for all my current and future Stats220 projec
 4. Project 4
 5. Project 5
 
-```{css}
-  ol { font-style: "italic";}
-```
+
