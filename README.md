@@ -1,6 +1,4 @@
-# Stats220
-
-## Purpose
+# **Stats220**
 
 This repo was created as a display for all my current and future Stats220 projects!
 
