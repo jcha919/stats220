@@ -14,4 +14,4 @@ This repo was created as a display for all my current and future Stats220 projec
 - Apply these skills in the future
 - Have fun
 
-Here is a link to my **[Stats220](https://jcha919.github.io/stats220/)** website
+Here is a link to my [Stats220](https://jcha919.github.io/stats220/) website
